@@ -1,6 +1,6 @@
 
 #include <GL/gl.h>
-#include <GL/glut.h>
+#include <GL/glut.h>https://github.com/mdparvez2468/Computer-Graphics/blob/master/Task-4(5).txt
 #include <math.h>
 
 
